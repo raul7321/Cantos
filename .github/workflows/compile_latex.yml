@@ -1,0 +1,11 @@
+- name: LaTeX compilation
+  uses: dante-ev/latex-action@2021-A
+  with:
+    root_file: 00cantos_misa.tex
+    working_directory: # optional
+    # LaTeX engine to be used
+    compiler: # optional, default is latexmk
+    # Extra arguments to be passed to the latex compiler
+    args: # optional, default is -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+    # Install extra packages by apt-get
+    extra_system_packages: # optional
