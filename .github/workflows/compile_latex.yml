@@ -14,8 +14,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex # Cambia esto si tu archivo tiene otro nombre
-
+          root_file: 00cantos_misa.tex
       - name: Upload PDF to a branch
         uses: peaceiris/actions-gh-pages@v3
         with:
