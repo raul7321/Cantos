@@ -1,0 +1,94 @@
+\documentclass[12pt,letterpaper,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{anysize,nopageno,graphicx}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\marginsize{2cm}{2cm}{1cm}{2cm} %{left}{right}{top}{bottom}
+\usepackage[titles]{tocloft}
+
+\newcommand\ac[2][l]{%ACORDES
+\makebox[0pt][#1]{\begin{tabular}[b]{@{}l@{}}\vspace{-8pt}\footnotesize{\textcolor{red}{\textbf{#2}}}\\\mbox{}\end{tabular}}}
+
+\renewcommand{\cftdot}{}
+
+\renewcommand{\sectionmark}[1]{\xdef\leftmark{#1}}
+
+\pagestyle{fancy}
+\begin{document}
+\fancyhead[LE,RO]{Pastoral Infantil}
+\input{Header.tex}
+
+\addcontentsline{toc}{section}{\textbullet\phantom{X}Partes de la Misa}
+\section*{Partes de la Misa}
+\input{Partes.tex}\pagebreak
+
+\hypertarget{entrada}{}
+
+\section{Cantos de Entrada}
+\input{Diosestaaqui.tex}\pagebreak
+\input{Venimoshoyatualtar.tex}\pagebreak
+\input{Alabanzasalsenor.tex}\pagebreak
+\input{Vivacristorey.tex}\pagebreak
+\input{Fuentebautismal.tex}\pagebreak
+\input{Bautizame.tex}\pagebreak
+\input{VamosPastores.tex}\pagebreak
+\input{caminare.tex}\pagebreak
+\input{Perdona.tex}\pagebreak
+\input{Resucito.tex}\pagebreak
+\input{MiPrimera.tex}\pagebreak
+\input{Alabare.tex}\pagebreak
+
+\hypertarget{piedad}{}
+\section{Cantos Señor ten Piedad}
+\input{Senortenpiedad.tex}\pagebreak
+
+\hypertarget{gloria}{}
+\section{Cantos del Gloria}
+\input{Gloria.tex}\pagebreak
+
+\hypertarget{aleluya}{}
+\section{Cantos del Aleluya}
+\input{Cristoestavivo.tex}\pagebreak
+\input{AleluyaCanon.tex}
+\input{Honorygloria.tex}\pagebreak
+
+\hypertarget{ofertorio}{}
+\section{Cantos de Ofertorio}
+\input{Estoquetedoy.tex}\pagebreak
+\input{Antetupresencia.tex}\pagebreak
+\input{Saberquevendras.tex}\pagebreak
+
+\hypertarget{santo}{}
+\section{Cantos del Santo}
+\input{Santo.tex}\pagebreak
+
+\hypertarget{padrenuestro}{}
+\section{Cantos del Padre nuestro}
+\input{PadreNuestro.tex}\pagebreak
+
+\hypertarget{cordero}{}
+\section{Cantos del Cordero de Dios}
+\input{CorderoAndina.tex}\pagebreak
+
+\section{Cantos de Comunión}
+\input{Tuyosoy.tex}\pagebreak
+\input{Jesusamigo.tex}\pagebreak
+\input{Yanoerespanyvino.tex}\pagebreak
+\input{Entretusmanos.tex}\pagebreak
+\input{Pescador.tex}\pagebreak
+
+\hypertarget{salida}{}
+\section{Cantos de Salida}
+\input{Contigomaria.tex}\pagebreak
+\input{Hazmeuninstrumento.tex}\pagebreak
+\input{Mariamirame.tex}\pagebreak
+\end{document}
+
