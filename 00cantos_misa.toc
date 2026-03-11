@@ -1,0 +1,44 @@
+\babel@toc {spanish}{}\relax 
+\thispagestyle {empty}
+\contentsline {section}{\textbullet \phantom {X}Partes de la Misa}{}{section*.1}%
+\contentsline {section}{\numberline {1}Cantos de Entrada}{}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Dios está aquí}{}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Venimos hoy a tu altar}{}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Alabanzas al Señor}{}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}¡Viva Cristo Rey!}{}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Fuente Bautismal}{}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Bautízame Señor con tu espíritu}{}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}¡Vamos pastores, vamos!}{}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Caminaré en presencia del Señor}{}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Perdona a tu pueblo Señor}{}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Resucitó}{}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Mi primera comunión}{}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}Alabaré}{}{subsection.1.12}%
+\contentsline {section}{\numberline {2}Cantos Señor ten Piedad}{}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Señor, ten Piedad}{}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Cantos del Gloria}{}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Gloria}{}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Cantos del Aleluya}{}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Cristo está vivo}{}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Aleluya (Canon de Pachelbel)}{}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Honor y Gloria a ti Señor Jesús (En Cuaresma)}{}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Cantos de Ofertorio}{}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Esto que te doy}{}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ante tu Presencia}{}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Saber que Vendrás}{}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Cantos del Santo}{}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Santo}{}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Cantos del Padre nuestro}{}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Padre Nuestro}{}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Cantos del Cordero de Dios}{}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Cordero de Dios (Misa Andina)}{}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Cantos de Comunión}{}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Tuyo Soy}{}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Jesús Amigo}{}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Ya no eres pan y vino}{}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Entre tus manos}{}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Pescador de Hombres}{}{subsection.9.5}%
+\contentsline {section}{\numberline {10}Cantos de Salida}{}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Contigo María}{}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Hazme un Instrumento de tu Paz}{}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}María Mírame}{}{subsection.10.3}%
