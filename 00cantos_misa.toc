@@ -28,6 +28,7 @@
 \contentsline {subsection}{\numberline {5.3}Saber que Vendrás}{}{subsection.5.3}%
 \contentsline {section}{\numberline {6}Cantos del Santo}{}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Santo}{}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Santo (de Mejía)}{}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Cantos del Padre nuestro}{}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Padre Nuestro}{}{subsection.7.1}%
 \contentsline {section}{\numberline {8}Cantos del Cordero de Dios}{}{section.8}%

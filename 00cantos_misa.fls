@@ -232,6 +232,11 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT ./Santo.tex
 INPUT ./Santo.tex
 INPUT Santo.tex
+INPUT ./SantoMejia.tex
+INPUT ./SantoMejia.tex
+INPUT ./SantoMejia.tex
+INPUT ./SantoMejia.tex
+INPUT SantoMejia.tex
 INPUT ./PadreNuestro.tex
 INPUT ./PadreNuestro.tex
 INPUT PadreNuestro.tex

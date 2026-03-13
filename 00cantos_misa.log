@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  11 MAR 2026 03:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  13 MAR 2026 14:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -409,7 +409,7 @@ een already used, duplicate ignored
                    \relax 
 l.9 \newpage
              [2]
-<CantosCoroQR.png, id=227, 411.5375pt x 411.5375pt>
+<CantosCoroQR.png, id=232, 411.5375pt x 411.5375pt>
 File: CantosCoroQR.png Graphic file (type png)
 <use CantosCoroQR.png>
 Package pdftex.def Info: CantosCoroQR.png  used on input line 13.
@@ -831,8 +831,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 
-      [27] (./PadreNuestro.tex)
+l.72 \input
+           {SantoMejia}\pagebreak [27] (./SantoMejia.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -848,8 +848,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 
-      [28] (./CorderoAndina.tex)
+l.73 
+      [28] (./PadreNuestro.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 
+      [29] (./CorderoAndina.tex)
 Underfull \vbox (badness 3199) has occurred while \output is active []
 
 
@@ -865,25 +882,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 
-      [29] (./Tuyosoy.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.83 \input
-           {Jesusamigo.tex}\pagebreak [30] (./Jesusamigo.tex)
+l.81 
+      [30] (./Tuyosoy.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -900,7 +900,10 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.84 \input
-           {Yanoerespanyvino.tex}\pagebreak [31] (./Yanoerespanyvino.tex)
+           {Jesusamigo.tex}\pagebreak [31] (./Jesusamigo.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -914,10 +917,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.85 \input
-           {Entretusmanos.tex}\pagebreak [32] (./Entretusmanos.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+           {Yanoerespanyvino.tex}\pagebreak [32] (./Yanoerespanyvino.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -931,7 +931,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.86 \input
-           {Pescador.tex}\pagebreak [33] (./Pescador.tex)
+           {Entretusmanos.tex}\pagebreak [33] (./Entretusmanos.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -947,8 +947,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 
-      [34] (./Contigomaria.tex)
+l.87 \input
+           {Pescador.tex}\pagebreak [34] (./Pescador.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -964,8 +964,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91 \input
-           {Hazmeuninstrumento.tex}\pagebreak [35] (./Hazmeuninstrumento.tex)
+l.88 
+      [35] (./Contigomaria.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -979,7 +982,21 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.92 \input
-           {Mariamirame.tex}\pagebreak [36] (./Mariamirame.tex)
+           {Hazmeuninstrumento.tex}\pagebreak [36] (./Hazmeuninstrumento.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \input
+           {Mariamirame.tex}\pagebreak [37] (./Mariamirame.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -995,8 +1012,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.93 \end
-         {document} [37] (./00cantos_misa.aux
+l.94 \end
+         {document} [38] (./00cantos_misa.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1005,16 +1022,16 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `00cantos_misa.out' has not changed.
-(rerunfilecheck)             Checksum: C5135EF7C1B46F01885DD07109CCDE5D;6577.
+(rerunfilecheck)             Checksum: 239850630B87969599CA284E3F834E44;6730.
  ) 
 Here is how much of TeX's memory you used:
- 10997 strings out of 467538
- 175117 string characters out of 5421637
+ 11007 strings out of 467538
+ 175299 string characters out of 5421637
  617527 words of memory out of 5000000
- 39631 multiletter control sequences out of 15000+600000
+ 39637 multiletter control sequences out of 15000+600000
  636049 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,372b,792s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,372b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{comunion} has been referenced but does not exist, r
 eplaced by a fixed one
@@ -1028,10 +1045,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></opt/texlive/texdir/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti12.pfb></opt/texlive/texdir/texmf-dist/fon
 ts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
 e1/public/cm-super/sfrm1440.pfb>
-Output written on 00cantos_misa.pdf (37 pages, 163203 bytes).
+Output written on 00cantos_misa.pdf (38 pages, 164736 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 55 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 350 words of extra memory for PDF output out of 10000 (max. 10000000)
 
