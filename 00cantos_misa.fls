@@ -94,6 +94,8 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -193,6 +195,7 @@ INPUT caminare.tex
 INPUT ./Perdona.tex
 INPUT ./Perdona.tex
 INPUT Perdona.tex
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT ./Resucito.tex
 INPUT ./Resucito.tex
 INPUT Resucito.tex
@@ -211,7 +214,6 @@ INPUT Gloria.tex
 INPUT ./Cristoestavivo.tex
 INPUT ./Cristoestavivo.tex
 INPUT Cristoestavivo.tex
-INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT ./AleluyaCanon.tex
 INPUT ./AleluyaCanon.tex
 INPUT AleluyaCanon.tex
@@ -268,6 +270,13 @@ INPUT Hazmeuninstrumento.tex
 INPUT ./Mariamirame.tex
 INPUT ./Mariamirame.tex
 INPUT Mariamirame.tex
+INPUT ./LaVozDeMaria.tex
+INPUT ./LaVozDeMaria.tex
+INPUT ./LaVozDeMaria.tex
+INPUT ./LaVozDeMaria.tex
+INPUT LaVozDeMaria.tex
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT 00cantos_misa.aux
 INPUT ./00cantos_misa.out
 INPUT ./00cantos_misa.out
